@@ -1,0 +1,39 @@
+{
+  "title": "School CyberWatch Local Incident Report",
+  "scope": "Fictional local sample data only",
+  "incident_count": 1,
+  "incidents": [
+    {
+      "id": "INC-001",
+      "source": "lab-pc-02",
+      "alert_types": [
+        "repeated_failed_login",
+        "multiple_usernames"
+      ],
+      "timeline": [
+        {
+          "timestamp": "2026-10-17T08:20:00Z",
+          "description": "failed login for brian from lab-pc-02"
+        },
+        {
+          "timestamp": "2026-10-17T08:21:00Z",
+          "description": "failed login for brian from lab-pc-02"
+        },
+        {
+          "timestamp": "2026-10-17T08:22:00Z",
+          "description": "failed login for brian from lab-pc-02"
+        },
+        {
+          "timestamp": "2026-10-17T08:23:00Z",
+          "description": "failed login for chloe from lab-pc-02"
+        }
+      ],
+      "risk_score": 80,
+      "risk_level": "High",
+      "risk_explanation": [
+        "repeated failed login (+45)",
+        "multiple usernames (+35)"
+      ]
+    }
+  ]
+}

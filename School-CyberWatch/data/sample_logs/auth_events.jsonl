@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-17T08:15:00Z","user":"amina","source":"lab-pc-01","result":"success"}
+{"timestamp":"2026-10-17T08:20:00Z","user":"brian","source":"lab-pc-02","result":"failed"}
+{"timestamp":"2026-10-17T08:21:00Z","user":"brian","source":"lab-pc-02","result":"failed"}
+{"timestamp":"2026-10-17T08:22:00Z","user":"brian","source":"lab-pc-02","result":"failed"}
+{"timestamp":"2026-10-17T08:23:00Z","user":"chloe","source":"lab-pc-02","result":"failed"}
