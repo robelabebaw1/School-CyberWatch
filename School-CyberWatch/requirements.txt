@@ -1,1 +1,2 @@
-
+# Current version : uses only Python standard-library modules.
+# No external dependencies are required now. 
