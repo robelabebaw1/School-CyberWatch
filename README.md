@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Overview
-
 School CyberWatch is a Python-based defensive cybersecurity project designed to help identify suspicious login activity, detect file changes, and organize security incidents in a clear and understandable way.
 
 The current version is a local prototype that uses fictional sample data to demonstrate its core features safely. My goal is to develop School CyberWatch into a practical cybersecurity tool that could help schools protect sensitive information and identify suspicious activity.
