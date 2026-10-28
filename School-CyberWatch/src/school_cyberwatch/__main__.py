@@ -1,4 +1,4 @@
-"""Run School Cyberwatch operations from the command line."""
+"""Run School-CyberWatch operations from the command line."""
 
 import argparse
 from pathlib import Path
